@@ -7,7 +7,10 @@ Python3.6以上
 
 ## 必要なもの
 .env
+
 requests
+
+discord.py rewrite
 
 ## 導入
 Herokuへリポジトリを連携するだけで動作します
